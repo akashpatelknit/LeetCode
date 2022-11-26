@@ -1,17 +1,13 @@
 class Solution {
 public:
-    bool divideArray(vector<int>& nums) {
-        // int x=0;
-        // for(auto i:nums) x=x^i;
-        // return x==0;
-          unordered_map<int,int> m;
-        for( auto x : nums)m[x]++;
-
-        for( auto x : nums)
-        {
-            if( m[x]%2!=0)return false;
-
-        }
+ bool divideArray(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        for(int i=0; i<nums.size(); i=i+2)
+            if((nums[i] ^ nums[i+1]) != 0)
+                return false;
+        
         return true;
+
+
     }
 };
