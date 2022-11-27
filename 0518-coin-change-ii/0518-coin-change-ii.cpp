@@ -1,8 +1,8 @@
 class Solution {
 public:
-       int f(int idx,int t,vector<int>&a,vector<vector<int>>&dp){
+    int f(int idx,int t,vector<int>&a,vector<vector<int>>&dp){
     if(idx==0){
-        if(t%a[0]==0) return 1;
+    if(t%a[0]==0) return 1;
         else return 0;
     }
     if(dp[idx][t]!=-1) return dp[idx][t];
@@ -14,7 +14,7 @@ public:
     int change(int x, vector<int>& num) {
     int n=num.size();
     vector<vector<int>>dp(n,vector<int>(x+1,-1));
-   int ans= f(n-1,x,num,dp);
+    int ans= f(n-1,x,num,dp);
   
    return ans;
     }
