@@ -8,13 +8,14 @@ public:
             q.push({d,{i[0],i[1]}});
                   
         }
-        vector<vector<int>>ans; 
+        // vector<vector<int>>ans; 
+        points.clear();
         while(k--){
            auto it=q.top();
             q.pop();
             auto idx=it.second;
-            ans.push_back({idx.first,idx.second});
+            points.push_back({idx.first,idx.second});
         }
-                   return ans;
+                   return points;
     }
 };
