@@ -10,13 +10,6 @@ public:
 
         return solve(p->left, q->right) && solve(p->right, q->left);
     }
-    bool isSymmetric(TreeNode* root) {
-        if (root->left != NULL && root->right != NULL) {
-            return solve(root->left, root->right);
-        } else if (root->left == NULL && root->right == NULL) {
-            return true;
-        } else {
-            return false;
-        }
-    }
+
+    bool isSymmetric(TreeNode* root) { return solve(root->left, root->right); }
 };
