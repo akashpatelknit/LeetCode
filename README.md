@@ -82,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashpatelknit/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akashpatelknit/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashpatelknit/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akashpatelknit/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 <!---LeetCode Topics End-->
