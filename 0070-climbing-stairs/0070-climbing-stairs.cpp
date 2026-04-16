@@ -21,11 +21,25 @@ public:
 
         return 0;
     }
+    int solveTSpace(int n) {
+        int prev = 1;
+        int prev2 = 1;
+        int curr = 0;
+        for (int i = 2; i <= n; i++) {
+            curr = prev2 + prev;
+            prev = prev2;
+            prev2 = curr;
+        }
+
+        return curr;
+    }
     int climbStairs(int n) {
         if (n == 1)
             return 1;
-        vector<int> dp(n + 1, -1);
-        solveT(n, dp);
-        return dp[n];
+        // vector<int> dp(n + 1, -1);
+        // solveT(n, dp);
+        // return dp[n];
+
+        return solveTSpace(n);
     }
 };
