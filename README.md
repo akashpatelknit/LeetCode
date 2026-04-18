@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akashpatelknit/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akashpatelknit/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/akashpatelknit/LeetCode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/akashpatelknit/LeetCode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/akashpatelknit/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akashpatelknit/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/akashpatelknit/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
