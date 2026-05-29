@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akashpatelknit/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/akashpatelknit/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akashpatelknit/LeetCode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/akashpatelknit/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
