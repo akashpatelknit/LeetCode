@@ -8,6 +8,8 @@ public:
                 st.push(i);
             } else {
                 char ch = st.top();
+
+                // checking either we got closed paranthesis or not
                 if (i == ')' && ch == '(' || i == '}' && ch == '{' ||
                     i == ']' && ch == '[') {
                     st.pop();
