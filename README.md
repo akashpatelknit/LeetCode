@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akashpatelknit/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/akashpatelknit/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/akashpatelknit/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashpatelknit/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akashpatelknit/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/akashpatelknit/LeetCode/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/akashpatelknit/LeetCode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/akashpatelknit/LeetCode/tree/master/0303-range-sum-query-immutable) |
