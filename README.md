@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akashpatelknit/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akashpatelknit/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/akashpatelknit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/akashpatelknit/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -153,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/akashpatelknit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akashpatelknit/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
