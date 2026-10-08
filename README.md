@@ -108,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akashpatelknit/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/akashpatelknit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akashpatelknit/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashpatelknit/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/akashpatelknit/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/akashpatelknit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/akashpatelknit/LeetCode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/akashpatelknit/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/akashpatelknit/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/akashpatelknit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akashpatelknit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akashpatelknit/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/akashpatelknit/LeetCode/tree/master/0680-valid-palindrome-ii) |
