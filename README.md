@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akashpatelknit/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/akashpatelknit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akashpatelknit/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/akashpatelknit/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/akashpatelknit/LeetCode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/akashpatelknit/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/akashpatelknit/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akashpatelknit/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/akashpatelknit/LeetCode/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akashpatelknit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akashpatelknit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akashpatelknit/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/akashpatelknit/LeetCode/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/akashpatelknit/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/akashpatelknit/LeetCode/tree/master/0917-reverse-only-letters) |
 ## Greedy
