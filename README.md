@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akashpatelknit/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/akashpatelknit/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
